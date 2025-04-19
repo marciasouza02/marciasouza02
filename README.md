@@ -1,10 +1,13 @@
 # Olá! 👋 Eu sou Cléa Márcia
 
 
-🎓 Estudante de Ciência de Dados na Cruzeiro do Sul;
-🎓 Faço parte da DIO onde estou expandindo meus conhecimento e participando do Bootcamp;
-💼 Profissional de Faturamento;
-💡 Apaixonado por tecnologia e programação;
+🎓 Estudante de Ciência de Dados na Cruzeiro do Sul
+
+🎓 Faço parte da DIO onde estou expandindo meus conhecimento e participando do Bootcamp
+
+💼 Profissional de Faturamento
+
+💡 Apaixonado por tecnologia e programação
 
 ### __💻 Sobre mim__
 
@@ -33,7 +36,7 @@
 
 ### 🌐 __Vamos nos conectar!__
 
-https://www.linkedin.com/in/cl%C3%A9a-m%C3%A1rcia-vieira-de-souza-6a809b17b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4p9kLmMJTQKnlk%2FewwKN%2FQ%3D%3D
+[LinkedIn](https://www.linkedin.com/in/cl%C3%A9a-m%C3%A1rcia-vieira-de-souza-6a809b17b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4p9kLmMJTQKnlk%2FewwKN%2FQ%3D%3D)
 
 ✨ Obrigado por visitar meu perfil! Em breve, muitos projetos estarão disponíveis por aqui 🚀
 
