@@ -5,7 +5,7 @@
 
 🎓 Faço parte da DIO onde estou expandindo meus conhecimento e participando do Bootcamp
 
-🎓 Cursando Ciências de Alura One turma G9
+🎓 Cursando Ciências de Dados na Alura One turma G9
 
 💼 Profissional de Faturamento
 
